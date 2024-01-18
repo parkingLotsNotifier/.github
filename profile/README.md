@@ -5,3 +5,4 @@ It uses a server application that processes real-time data from parking lots, em
 The system includes an API for data flow control and client authentication, along with a Python-Telegram GUI client for end-user data consumption.
 The project integrates machine learning with web technologies for a smart parking solution, utilizing Express.js and Node.js for server and API development, and Python for client-side interactions.
 
+for more information check the [Documentation Notebook](https://github.com/parkingLotsNotifier/.github/blob/main/ParkerAI_Project_Notebook_Final.pdf)
